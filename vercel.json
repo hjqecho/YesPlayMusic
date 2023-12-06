@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-rosy-eight.vercel.app/:match*"
+      "destination": "https://musicapi.hjiaqi.top/:match*"
     }
   ]
 }
